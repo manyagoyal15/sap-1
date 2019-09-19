@@ -102,6 +102,8 @@ h2 {
         display: none !important;
         visibility: hidden;
     }
+    #res{
+    width:70%;}
 }
 
 #piggy {
